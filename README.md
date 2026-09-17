@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi  I'm Ritu A.
 
-<!--
-**Ritua2005/Ritua2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Industrial IoT Student
 
-Here are some ideas to get you started:
+Interested in:
+Industrial IoT
+Embedded Systems
+Industrial Automation
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+Full Stack Development
+
+Projects:
+FloraGuard
+Driver Drowsiness Detection System
+
+Certification:
+AWS Cloud Practitioner Essentials
+Learning Full Stack
